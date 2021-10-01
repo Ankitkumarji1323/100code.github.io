@@ -180,7 +180,6 @@ blockquote {
 
 #main-slider .carousel .boxed {
     padding: 10px 15px;
-    background-color: rgba(0, 0, 0, 0.2);
     display: inline-block;
     text-transform: uppercase;
 }
@@ -218,7 +217,6 @@ blockquote {
 
 .home-icon {
     padding: 10px 15px;
-    background-color: rgba(0, 0, 0, 0.2);
     clear: both;
     display: block;
     font-size: 78px;
@@ -1222,7 +1220,8 @@ ul.rss li::before {
     background-color: #101010;
     padding-top: 30px;
     padding-bottom: 30px;
-    color: #eee;
+    color: rgb(196, 196, 196);
+    font-size: 14px;
     border-top: 1px solid #333;
 }
 
